@@ -48,3 +48,7 @@ a.compareTo(b) < 0 // a < b
 a.compareTo(b) > 0 // a > b
 
 a.compareTo(b) == 0 // a == b
+
+The value 0 if the argument is a string lexicographically equal to this string;
+a value less than 0 if the argument is a string lexicographically greater than this string;
+and a value greater than 0 if the argument is a string lexicographically less than this string.
