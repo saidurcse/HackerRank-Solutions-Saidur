@@ -40,3 +40,11 @@ Sample Output:
 9
 No
 Hello Java
+
+Hint:
+
+a.compareTo(b) < 0 // a < b
+
+a.compareTo(b) > 0 // a > b
+
+a.compareTo(b) == 0 // a == b
